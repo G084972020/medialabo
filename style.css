@@ -1,4 +1,19 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
+html {
+    font-family: 'Helvetica neue' Arial, 'sans serif';
+    font-size: 15px;
 }
+
+body {
+    width: 80em;
+    margin: 20 ;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: white;
+    border-bottom: 10px Groove violet;
+    background-color: #1dcdf5
+}
+
 
