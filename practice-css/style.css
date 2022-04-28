@@ -30,11 +30,15 @@ li {
 
 header, footer {
   background-color: teal;
-  height: 1em;
+  height: 2em;
   padding: 2em;
 }
 
-h1, p {
+header {
+  margin: -10px;
+}
+
+h1, footer p {
   margin: -70px;
 }
 
