@@ -20,7 +20,7 @@ h2 {
   font-size: 3.2em;
 }
 
-pli {
+li {
   font-size: 1.7em;
 }
 
@@ -30,7 +30,7 @@ pli {
 
 header, footer {
   background-color: teal;
-  height: 10em;
+  height: 1em;
   padding: 2em;
 }
 
